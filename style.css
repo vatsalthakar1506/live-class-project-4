@@ -1,0 +1,89 @@
+.navbar-container {
+  position: relative;
+}
+.logo {
+  position: absolute;
+  left: 90px;
+  top: 50px;
+}
+
+.list {
+  position: relative;
+  list-style: none;
+}
+.list-item1 {
+  position: absolute;
+  left: 325px;
+  top: 60px;
+}
+.list-item2 {
+  position: absolute;
+  left: 425px;
+  top: 60px;
+  color: rgb(166, 165, 165);
+}
+.list-item3 {
+  position: absolute;
+  left: 525px;
+  top: 60px;
+  color: rgb(166, 165, 165);
+}
+.list-item4 {
+  position: absolute;
+  left: 625px;
+  top: 60px;
+  color: rgb(166, 165, 165);
+}
+.list-item5 {
+  position: absolute;
+  left: 725px;
+  top: 60px;
+  color: rgb(166, 165, 165);
+}
+.nav-button {
+  position: absolute;
+  right: 150px;
+  top: 40px;
+  border-radius: 0.5em;
+  padding: 12px 17px 12px 17px;
+  background-color: #5f33b6;
+  color: #fff;
+  border: #5f33b6;
+}
+.banner-container {
+  position: relative;
+}
+.heading-text {
+  position: absolute;
+  top: 140px;
+  left: 150px;
+  font-size: 65px;
+  width: 370px;
+  color: #382068;
+}
+.description {
+  position: absolute;
+  top: 420px;
+  left: 150px;
+  width: 300px;
+  color: rgb(166, 165, 165);
+}
+.nav-buttonbtn {
+  position: absolute;
+  top: 520px;
+  left: 170px;
+  padding: 20px 55px 20px 55px;
+  border-radius: 0.5em;
+  background-color: #5f33b6;
+  color: #fff;
+  border: #5f33b6;
+  font-weight: 400;
+}
+.imgg {
+  position: absolute;
+  right: 10px;
+  top: 120px;
+}
+.span1 {
+  color: #5f33b6;
+}
