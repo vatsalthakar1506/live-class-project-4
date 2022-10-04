@@ -42,7 +42,7 @@
 }
 .nav-button {
   position: absolute;
-  right: 150px;
+  left: 1305px;
   top: 40px;
   border-radius: 0.5em;
   padding: 12px 17px 12px 17px;
@@ -83,6 +83,10 @@
   position: absolute;
   right: 10px;
   top: 120px;
+}
+.imgg > img {
+  height: 40%;
+  width: 90%;
 }
 .span1 {
   color: #5f33b6;
