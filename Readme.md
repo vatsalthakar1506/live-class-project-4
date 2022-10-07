@@ -1,6 +1,6 @@
 ![badge](https://img.shields.io/badge/Live--class-Fourth--Project-orange)
 
-# Crypto Landing page
+# Digital Marketing Homepage
 
 > CSS Challange
 
